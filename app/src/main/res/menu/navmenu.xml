@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/dashboard"
+        android:title="Catatan"
+        android:icon="@drawable/dashboard"/>
+
+    <item android:id="@+id/income"
+        android:title="Penghasilan"
+        android:icon="@drawable/income"/>
+
+    <item android:id="@+id/expense"
+        android:title="Pengeluaran"
+        android:icon="@drawable/expense"/>
+
+    <item android:id="@+id/logout"
+        android:title="Keluar"
+        android:icon="@drawable/logout"/>
+
+</menu>
